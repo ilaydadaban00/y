@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\bin\Debug\MENUSTRİP.exe.config
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\bin\Debug\MENUSTRİP.exe
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\bin\Debug\MENUSTRİP.pdb
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\1550.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\1550.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\MENUSTRİP.Form1.resources
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\MENUSTRİP.Properties.Resources.resources
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\1550.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\1550.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\MENUSTRİP.exe
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\MENUSTRİP.pdb
+C:\Users\User\source\repos\MENUSTRİP\MENUSTRİP\obj\Debug\MENUSTRİP.OgrenciEkle.resources
